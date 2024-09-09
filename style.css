@@ -102,3 +102,35 @@ button{
                 margin-top: 15px;
               
 }
+
+.fourth-section{
+
+                display: flex;
+                flex-direction: column;
+                margin: 60px 100px;
+                align-items: center;
+}
+.fourth-section-content{
+                
+                margin-top: 40px;
+                display: flex;
+                flex-direction: column;
+}
+.foods-item{
+                display: flex;
+                
+}
+.fourth-section-content  h2{
+                font-weight: 500;
+                font-size: 24px;
+}
+.fourth-section-content p{
+                font-size: 10px;
+                margin: 9px 0px;
+}
+.btn-1{
+                background-color: #dcece4;
+                color: #06C167;
+                font-weight: 500;
+
+}
