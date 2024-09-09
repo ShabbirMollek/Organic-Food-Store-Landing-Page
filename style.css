@@ -47,12 +47,17 @@ li{
                 width: 70%;
                 
 }
+.banner-image{
+                display: flex;
+                position: relative;
+                z-index: 0;
+}
 button{
                 color:white;
                 background-color: #06C167;
                 border: none;
                 font-size: 14px;
-                padding: 8px;
+                padding: 12px;
                 
 }
 
@@ -74,4 +79,26 @@ button{
 }
 .shipping-two{
                 display: flex;
+}
+
+.second-section,.third-section{
+                margin: 40px 100px;
+                display: flex;
+                justify-content:space-around;
+                align-items:center ;
+}  
+
+.second-section-content{
+                display: flex;
+                flex-direction: column;
+}
+.second-section-content > i{
+                margin-top:15px;
+}
+.third-section-content{
+                display: flex;
+                justify-content: space-between;
+                margin-bottom: 20px;
+                margin-top: 15px;
+              
 }
