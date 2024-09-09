@@ -55,3 +55,23 @@ button{
                 padding: 8px;
                 
 }
+
+.first-section{
+                margin: 80px 100px;
+}
+
+.payment{
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                margin-top: 20px;
+
+}
+.shipping-one{
+                display: flex;
+                align-items: center;
+                
+}
+.shipping-two{
+                display: flex;
+}
